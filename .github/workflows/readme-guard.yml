@@ -1,0 +1,21 @@
+name: README Guard
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+
+jobs:
+  validate-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run README quality guard
+        run: python .github/scripts/readme_guard.py

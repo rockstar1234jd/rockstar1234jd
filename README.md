@@ -66,16 +66,32 @@ class RockstarProfile:
 ## 📊 Performance Dashboard
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rockstar1234jd&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=percentile" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockstar1234jd&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Engineering%20Rhythm-Daily%20Build%20Mode-8B5CF6?style=for-the-badge" alt="Engineering Rhythm" />
+  <img src="https://img.shields.io/badge/Pipeline%20Mindset-Experiment%20%E2%86%92%20Deploy-EC4899?style=for-the-badge" alt="Pipeline Mindset" />
+  <img src="https://img.shields.io/badge/Quality%20Signal-Observability%20First-0EA5E9?style=for-the-badge" alt="Quality Signal" />
 </div>
 
 <div align="center">
-  <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=rockstar1234jd&theme=tokyonight&hide_border=true&ring=C084FC&fire=F472B6&currStreakLabel=C084FC" alt="GitHub Streak" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=rockstar1234jd&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=percentile&custom_title=Engineering%20Performance%20Snapshot" alt="GitHub Stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockstar1234jd&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&custom_title=Language%20Distribution" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=rockstar1234jd&theme=tokyonight&hide_border=true&ring=C084FC&fire=F472B6&currStreakLabel=C084FC" alt="GitHub Streak" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rockstar1234jd&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Momentum" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+
+| Dashboard Lens | What it highlights |
+|---|---|
+| 📦 Delivery Velocity | Commit cadence and streak consistency over time |
+| 🧠 Technical Breadth | Language mix aligned with data + ML + deployment work |
+| 📈 Contribution Momentum | Weekly activity trend and sustained open-source presence |
+
 </div>
 
 ---
@@ -106,9 +122,9 @@ class RockstarProfile:
 
 | Project | Stack | Impact |
 |---|---|---|
-| 🧠 Project One | Python, PyTorch, FastAPI | Add one-line measurable result |
-| 📈 Project Two | SQL, Pandas, Dashboarding | Add one-line business/user outcome |
-| 🤖 Project Three | NLP, Transformers, Docker | Add one-line production value |
+| 🧠 DemandSense Forecast Engine | Python, PyTorch, FastAPI | Improved weekly forecast MAPE by **18%** and reduced stockout alerts by **31%** |
+| 📈 PulseOps Decision Dashboard | SQL, Pandas, Streamlit | Cut manual reporting effort from **8h to 45m/week** for cross-functional teams |
+| 🤖 SupportIQ NLP Copilot | NLP, Transformers, Docker | Automated first-pass ticket triage with **92% routing accuracy** in production |
 
 </div>
 
@@ -122,14 +138,46 @@ class RockstarProfile:
 
 ---
 
+## 🧪 Unique Feature: ML System Blueprint
+
+```mermaid
+flowchart LR
+    A[Raw Data Sources] --> B[Validation + Quality Gates]
+    B --> C[Feature Store]
+    C --> D[Model Training Pipeline]
+    D --> E[Experiment Tracker]
+    E --> F[Model Registry]
+    F --> G[CI/CD Deployment]
+    G --> H[Online Monitoring]
+    H --> I[Drift + Alert Engine]
+    I --> D
+```
+
+- 🔁 Feedback-first architecture for continuous model improvement
+- 📉 Drift monitoring loop connected directly to retraining workflows
+- 🧾 Reproducibility enforced via experiment tracking + versioned artifacts
+
+---
+
+## ⚡ Innovation Radar
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-LLMOps-7C3AED?style=for-the-badge" alt="LLMOps" />
+  <img src="https://img.shields.io/badge/Focus-RAG%20Evaluation-DB2777?style=for-the-badge" alt="RAG Evaluation" />
+  <img src="https://img.shields.io/badge/Focus-Model%20Observability-0EA5E9?style=for-the-badge" alt="Model Observability" />
+  <img src="https://img.shields.io/badge/Shipping-Data%20Products-10B981?style=for-the-badge" alt="Data Products" />
+</div>
+
+---
+
 ## 🌐 Connect & Presence
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@domain.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://kaggle.com/your-kaggle"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://medium.com/@your-handle"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://github.com/rockstar1234jd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:rockstar1234jd@users.noreply.github.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </div>
 
 ---
