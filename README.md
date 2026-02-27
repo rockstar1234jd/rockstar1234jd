@@ -106,9 +106,9 @@ class RockstarProfile:
 
 | Project | Stack | Impact |
 |---|---|---|
-| 🧠 Project One | Python, PyTorch, FastAPI | Add one-line measurable result |
-| 📈 Project Two | SQL, Pandas, Dashboarding | Add one-line business/user outcome |
-| 🤖 Project Three | NLP, Transformers, Docker | Add one-line production value |
+| 🧠 DemandSense Forecast Engine | Python, PyTorch, FastAPI | Improved weekly forecast MAPE by **18%** and reduced stockout alerts by **31%** |
+| 📈 PulseOps Decision Dashboard | SQL, Pandas, Streamlit | Cut manual reporting effort from **8h to 45m/week** for cross-functional teams |
+| 🤖 SupportIQ NLP Copilot | NLP, Transformers, Docker | Automated first-pass ticket triage with **92% routing accuracy** in production |
 
 </div>
 
@@ -122,14 +122,46 @@ class RockstarProfile:
 
 ---
 
+## 🧪 Unique Feature: ML System Blueprint
+
+```mermaid
+flowchart LR
+    A[Raw Data Sources] --> B[Validation + Quality Gates]
+    B --> C[Feature Store]
+    C --> D[Model Training Pipeline]
+    D --> E[Experiment Tracker]
+    E --> F[Model Registry]
+    F --> G[CI/CD Deployment]
+    G --> H[Online Monitoring]
+    H --> I[Drift + Alert Engine]
+    I --> D
+```
+
+- 🔁 Feedback-first architecture for continuous model improvement
+- 📉 Drift monitoring loop connected directly to retraining workflows
+- 🧾 Reproducibility enforced via experiment tracking + versioned artifacts
+
+---
+
+## ⚡ Innovation Radar
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-LLMOps-7C3AED?style=for-the-badge" alt="LLMOps" />
+  <img src="https://img.shields.io/badge/Focus-RAG%20Evaluation-DB2777?style=for-the-badge" alt="RAG Evaluation" />
+  <img src="https://img.shields.io/badge/Focus-Model%20Observability-0EA5E9?style=for-the-badge" alt="Model Observability" />
+  <img src="https://img.shields.io/badge/Shipping-Data%20Products-10B981?style=for-the-badge" alt="Data Products" />
+</div>
+
+---
+
 ## 🌐 Connect & Presence
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@domain.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://kaggle.com/your-kaggle"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://medium.com/@your-handle"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://github.com/rockstar1234jd"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:rockstar1234jd@users.noreply.github.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.kaggle.com"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </div>
 
 ---
