@@ -63,9 +63,10 @@ class RockstarProfile:
 
 ---
 
+<!-- 
 ## 📊 Performance Dashboard
 
-<!-- <div align="center">
+<div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=rockstar1234jd&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=percentile" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockstar1234jd&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
@@ -80,17 +81,19 @@ class RockstarProfile:
 
 ---
 
-## 🏆 Elite Badges
 
+<!--
+## 🏆 Elite Badges
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rockstar1234jd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=2&column=4" alt="GitHub Trophies" />
-</div>
+</div> -->
 
 ---
 
+<!--
 ## 🐍 Contribution Snake
 
-<!-- <div align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rockstar1234jd/rockstar1234jd/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rockstar1234jd/rockstar1234jd/output/github-contribution-grid-snake.svg" />
