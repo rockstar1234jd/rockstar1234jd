@@ -61,7 +61,6 @@ class RockstarProfile:
 
 </div>
 
----
 
 <!-- 
 ## 📊 Performance Dashboard
@@ -79,7 +78,6 @@ class RockstarProfile:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rockstar1234jd&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Momentum" alt="Contribution Graph" />
 </div> -->
 
----
 
 
 <!--
@@ -100,8 +98,6 @@ class RockstarProfile:
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/rockstar1234jd/rockstar1234jd/output/github-contribution-grid-snake.svg" />
   </picture>
 </div> -->
-
----
 
 ## 🚀 Signature Projects
 
