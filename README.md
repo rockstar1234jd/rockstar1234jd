@@ -1,15 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B16,35:172554,70:312E81,100:0891B2&height=210&section=header&text=ADITYA%20KUMAR%20SAH&fontSize=40&fontColor=F8FAFC&fontAlignY=38&desc=SOFTWARE%20%E2%80%A2%20DATA%20%E2%80%A2%20SYSTEMS&descAlignY=59&descSize=13&animation=fadeIn" alt="Aditya Kumar Sah — Software, Data, Systems" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:031B2E,35:075985,70:0891B2,100:5EEAD4&height=210&section=header&text=ADITYA%20KUMAR%20SAH&fontSize=40&fontColor=F8FAFC&fontAlignY=38&desc=FOCUS%20%E2%80%A2%20FLOW%20%E2%80%A2%20BUILD&descAlignY=59&descSize=13&animation=fadeIn" alt="Aditya Kumar Sah — Software, Data, Systems" />
 
-<a href="https://github.com/rockstar1234jd"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=600&lines=Turning+curiosity+into+working+software;Data+pipelines+%7C+FinTech+%7C+Developer+tools;Build.+Measure.+Learn.+Repeat." alt="Turning curiosity into working software" /></a>
+<a href="https://github.com/rockstar1234jd"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=5EEAD4&center=true&vCenter=true&width=600&lines=Turning+curiosity+into+working+software;Data+pipelines+%7C+FinTech+%7C+Developer+tools;Build.+Measure.+Learn.+Repeat." alt="Turning curiosity into working software" /></a>
 
 <p>
-  <a href="https://github.com/rockstar1234jd?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9" alt="Explore repositories" /></a>
-  <a href="https://www.linkedin.com/in/aditya-kumar-sah-a9a670236/"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=67E8F9" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/rockstar1234jd?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-06263A?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="Explore repositories" /></a>
+  <a href="https://www.linkedin.com/in/aditya-kumar-sah-a9a670236/"><img src="https://img.shields.io/badge/CONNECT-LINKEDIN-06263A?style=for-the-badge&logo=linkedin&logoColor=5EEAD4" alt="Connect on LinkedIn" /></a>
 </p>
 
-**Student developer · Software engineering · Data & FinTech**
+**Student developer · Software engineering · Data & FinTech**  
+*Swimmer-inspired profile theme: calm focus, steady progress, strong execution.*
 
 *I like turning messy problems into clear systems, useful tools, and work other people can understand.*
 
@@ -17,7 +18,7 @@
 
 ---
 
-## 01 / THE SIGNAL
+## 01 / FIND YOUR FLOW
 
 <table>
 <tr>
@@ -42,28 +43,28 @@ I care about the whole engineering loop: understand the problem, make the design
 
 **LANGUAGES & DATA**
 
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=67E8F9)
-![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=67E8F9)
-![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=67E8F9)
+![Python](https://img.shields.io/badge/Python-0B3448?style=flat-square&logo=python&logoColor=5EEAD4)
+![Java](https://img.shields.io/badge/Java-0B3448?style=flat-square&logo=openjdk&logoColor=5EEAD4)
+![SQL](https://img.shields.io/badge/SQL-0B3448?style=flat-square&logo=postgresql&logoColor=5EEAD4)
 
 **APPLICATIONS**
 
-![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=67E8F9)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-111827?style=flat-square&logo=springboot&logoColor=8DF5C6)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=8DF5C6)
+![React](https://img.shields.io/badge/React-0B3448?style=flat-square&logo=react&logoColor=5EEAD4)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0B3448?style=flat-square&logo=springboot&logoColor=99F6E4)
+![FastAPI](https://img.shields.io/badge/FastAPI-0B3448?style=flat-square&logo=fastapi&logoColor=99F6E4)
 
 **DATA & CLOUD**
 
-![Pandas](https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=A78BFA)
-![SQLite](https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=67E8F9)
-![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonaws&logoColor=FBBF24)
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=FCA5A5)
+![Pandas](https://img.shields.io/badge/Pandas-0B3448?style=flat-square&logo=pandas&logoColor=38BDF8)
+![SQLite](https://img.shields.io/badge/SQLite-0B3448?style=flat-square&logo=sqlite&logoColor=5EEAD4)
+![AWS](https://img.shields.io/badge/AWS-0B3448?style=flat-square&logo=amazonaws&logoColor=7DD3FC)
+![Git](https://img.shields.io/badge/Git-0B3448?style=flat-square&logo=git&logoColor=67E8F9)
 
 </td>
 </tr>
 </table>
 
-## 02 / SELECTED BUILDS
+## 02 / BUILT IN LANES
 
 <table>
 <tr>
@@ -124,7 +125,7 @@ A project exploring serverless endpoints, file upload/download flows, and object
 </tr>
 </table>
 
-## 03 / HOW I WORK
+## 03 / TRAIN · BUILD · IMPROVE
 
 <div align="center">
 
@@ -138,18 +139,18 @@ A project exploring serverless endpoints, file upload/download flows, and object
 - Aim for **reproducible workflows** with setup steps that another developer can follow.
 - Keep improving through **feedback, experiments, and consistent practice**.
 
-## 04 / GITHUB ACTIVITY
+## 04 / MOMENTUM & ACTIVITY
 
 <div align="center">
 
 <a href="https://github.com/rockstar1234jd">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rockstar1234jd&show_icons=true&hide_border=true&bg_color=070B16&title_color=67E8F9&text_color=D7E2F2&icon_color=A78BFA&rank_icon=github" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rockstar1234jd&show_icons=true&hide_border=true&bg_color=031B2E&title_color=5EEAD4&text_color=D9F4F5&icon_color=38BDF8&rank_icon=github" alt="GitHub profile statistics" />
 </a>
 <a href="https://github.com/rockstar1234jd">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockstar1234jd&layout=compact&hide_border=true&bg_color=070B16&title_color=67E8F9&text_color=D7E2F2" alt="Most used languages on GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockstar1234jd&layout=compact&hide_border=true&bg_color=031B2E&title_color=5EEAD4&text_color=D9F4F5" alt="Most used languages on GitHub" />
 </a>
 
-<img width="95%" src="https://streak-stats.demolab.com?user=rockstar1234jd&hide_border=true&background=070B16&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=D7E2F2&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B9BB4" alt="GitHub contribution streak" />
+<img width="95%" src="https://streak-stats.demolab.com?user=rockstar1234jd&hide_border=true&background=031B2E&ring=5EEAD4&fire=38BDF8&currStreakLabel=5EEAD4&sideLabels=D9F4F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7BA9BD" alt="GitHub contribution streak" />
 
 <sub>Activity cards are provided by third-party services and may occasionally be rate-limited or unavailable.</sub>
 
@@ -159,13 +160,13 @@ A project exploring serverless endpoints, file upload/download flows, and object
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-@rockstar1234jd-111827?style=for-the-badge&logo=github&logoColor=67E8F9)](https://github.com/rockstar1234jd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=67E8F9)](https://www.linkedin.com/in/aditya-kumar-sah-a9a670236/)
+[![GitHub](https://img.shields.io/badge/GitHub-@rockstar1234jd-0B3448?style=for-the-badge&logo=github&logoColor=5EEAD4)](https://github.com/rockstar1234jd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0B3448?style=for-the-badge&logo=linkedin&logoColor=5EEAD4)](https://www.linkedin.com/in/aditya-kumar-sah-a9a670236/)
 
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:070B16&height=100&section=footer" alt="" />
 
-<sub>LESS NOISE. MORE SIGNAL. ALWAYS BUILDING.</sub>
+<sub>FIND YOUR FLOW. BUILD WITH DISCIPLINE. KEEP MOVING.</sub>
 
 </div>
