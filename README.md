@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:031B2E,35:075985,70:0891B2,100:5EEAD4&height=210&section=header&text=ADITYA%20KUMAR%20SAH&fontSize=40&fontColor=F8FAFC&fontAlignY=38&desc=FOCUS%20%E2%80%A2%20FLOW%20%E2%80%A2%20BUILD&descAlignY=59&descSize=13&animation=fadeIn" alt="Aditya Kumar Sah — Software, Data, Systems" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:031B2E,35:075985,70:0891B2,100:5EEAD4&height=230&section=header&text=ADITYA%20KUMAR%20SAH&fontSize=40&fontColor=F8FAFC&fontAlignY=36&desc=SWIM%20%E2%80%A2%20CODE%20%E2%80%A2%20REPEAT&descAlignY=58&descSize=14&animation=twinkling" alt="Aditya Kumar Sah — Software, Data, Systems" />
 
-<a href="https://github.com/rockstar1234jd"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=5EEAD4&center=true&vCenter=true&width=600&lines=Turning+curiosity+into+working+software;Data+pipelines+%7C+FinTech+%7C+Developer+tools;Build.+Measure.+Learn.+Repeat." alt="Turning curiosity into working software" /></a>
+<a href="https://github.com/rockstar1234jd"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=5EEAD4&center=true&vCenter=true&width=600&lines=Swim.+Code.+Repeat.;Turning+curiosity+into+working+software;Data+pipelines+%7C+FinTech+%7C+Developer+tools;Build.+Measure.+Learn.+Repeat." alt="Turning curiosity into working software" /></a>
 
 <p>
   <a href="https://github.com/rockstar1234jd?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-06263A?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="Explore repositories" /></a>
@@ -10,7 +10,7 @@
 </p>
 
 **Student developer · Software engineering · Data & FinTech**  
-*Swimmer-inspired profile theme: calm focus, steady progress, strong execution.*
+*Calm under pressure. Consistent by design. Always moving forward.*
 
 *I like turning messy problems into clear systems, useful tools, and work other people can understand.*
 
@@ -143,6 +143,8 @@ A project exploring serverless endpoints, file upload/download flows, and object
 
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:031B2E,50:075985,100:5EEAD4&height=65&section=header&animation=twinkling" alt="" />
+
 <a href="https://github.com/rockstar1234jd">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=rockstar1234jd&show_icons=true&hide_border=true&bg_color=031B2E&title_color=5EEAD4&text_color=D9F4F5&icon_color=38BDF8&rank_icon=github" alt="GitHub profile statistics" />
 </a>
@@ -165,7 +167,7 @@ A project exploring serverless endpoints, file upload/download flows, and object
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:070B16&height=100&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5EEAD4,50:0891B2,100:031B2E&height=120&section=footer&animation=twinkling" alt="" />
 
 <sub>FIND YOUR FLOW. BUILD WITH DISCIPLINE. KEEP MOVING.</sub>
 
