@@ -1,141 +1,91 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=rockstar1234jd&fontSize=62&fontColor=ffffff&stroke=ffffff&animation=fadeIn&color=0:6D28D9,40:A21CAF,75:DB2777,100:0EA5E9&desc=Data%20Scientist%20•%20ML%20Engineer%20•%20Analytics%20Builder&descSize=18&descAlignY=68" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=2200&pause=800&color=C084FC&center=true&vCenter=true&width=960&height=70&lines=Hi+there%2C+I%27m+rockstar1234jd+%F0%9F%91%8B;Designing+intelligent+systems+from+data+%F0%9F%A7%A0;Production-ready+ML+%7C+NLP+%7C+Computer+Vision+%F0%9F%9A%80;Turning+insights+into+measurable+impact+%E2%9C%A8" alt="Typing Animation" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Aditya%20Kumar%20Sah&fontSize=48&fontColor=ffffff&animation=fadeIn&color=0:0F172A,50:312E81,100:0891B2&desc=Data%20%7C%20Analytics%20%7C%20Software%20Projects&descSize=17&descAlignY=68" alt="Aditya Kumar Sah — Data, Analytics, and Software Projects" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=rockstar1234jd&style=for-the-badge&color=8B5CF6" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/rockstar1234jd?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=7C3AED" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/rockstar1234jd?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=Total%20Stars&color=0EA5E9" alt="Stars" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-EC4899?style=for-the-badge" alt="Open to Collaboration" />
+  <a href="https://github.com/rockstar1234jd"><img src="https://img.shields.io/badge/GitHub-rockstar1234jd-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
+  <img src="https://img.shields.io/badge/Focus-Data%20%26%20Analytics-0F766E?style=for-the-badge" alt="Focus: Data and Analytics" />
+  <img src="https://img.shields.io/badge/Building-Useful%20Things-4338CA?style=for-the-badge" alt="Building useful things" />
 </p>
 
-<p>
-  <a href="#-about-me">About</a> •
-  <a href="#-tech-matrix">Tech</a> •
-  <a href="#-performance-dashboard">Analytics</a> •
-  <a href="#-signature-projects">Projects</a> •
-  <a href="#-connect--presence">Connect</a>
-</p>
+*Turning messy data and practical problems into useful, well-documented projects.*
 
 </div>
 
 ---
 
-## ✨ About Me
+## 👋 About Me
 
-```python
-class RockstarProfile:
-    def __init__(self):
-        self.role = "Data Scientist / ML Engineer"
-        self.specialties = ["ML Systems", "NLP", "Computer Vision", "MLOps"]
-        self.stack = ["Python", "PyTorch", "TensorFlow", "Docker", "AWS", "GCP"]
-        self.current_focus = "Building reliable, production-grade AI products"
+I'm **Aditya Kumar Sah**, a student and builder interested in data analytics, financial technology, and software engineering. I enjoy taking a project from raw inputs through data processing and analysis to something people can explore and use.
 
-    def mission(self):
-        return "Transform complex data into clear, high-impact decisions."
-```
+- 📊 Building analytics workflows, ETL pipelines, and data-driven dashboards
+- 💹 Exploring financial data, company fundamentals, and mutual-fund analytics
+- ☁️ Learning through hands-on software and cloud projects
+- 🧪 Working toward cleaner code, reproducible workflows, and better documentation
 
-- 🔭 Engineering end-to-end machine learning products with measurable outcomes
-- 🧠 Focused on scalable experimentation, robust evaluation, and reproducible pipelines
-- ⚙️ Strong preference for clean architecture, strong baselines, and shipping fast
-- 🤝 Collaborating on AI/analytics projects with real user or business impact
+## 🚀 Featured Projects
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rockstar1234jd/nifty100">📈 Nifty 100 Financial Intelligence</a></h3>
+      A financial analytics platform for company screening, peer comparisons, valuation metrics, and interactive dashboards.
+      <br/><br/>
+      <sub><b>Stack:</b> Python · SQLite · Streamlit · ETL · Financial Analytics</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rockstar1234jd/mutual-fund-etl-pipeline">💹 Mutual Fund Analytics Platform</a></h3>
+      An end-to-end data workflow covering ingestion, cleaning, SQL storage, fund performance analysis, risk metrics, and reporting.
+      <br/><br/>
+      <sub><b>Stack:</b> Python · Pandas · NumPy · SQLite · SQL · Power BI</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rockstar1234jd/Serverless-File-Sharing-Platform">☁️ Serverless File Sharing</a></h3>
+      A hands-on cloud project exploring file upload and download flows with serverless compute, API endpoints, and object storage.
+      <br/><br/>
+      <sub><b>Stack:</b> AWS Lambda · API Gateway · Amazon S3 · Python</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rockstar1234jd/Collection_DSA">🧩 Data Structures & Algorithms</a></h3>
+      A place to organize problem-solving practice and strengthen core programming fundamentals.
+      <br/><br/>
+      <sub><b>Focus:</b> Problem solving · Algorithms · Fundamentals</sub>
+    </td>
+  </tr>
+</table>
 
-## 🧰 Tech Matrix
+## 🛠️ Tools & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,anaconda,sqlite,mysql,postgres,mongodb,redis,tensorflow,pytorch,opencv,fastapi,flask,docker,kubernetes,aws,gcp,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,sqlite,mysql,git,github,aws,linux,vscode" alt="Python, SQLite, MySQL, Git, GitHub, AWS, Linux, and VS Code" />
 </div>
 
-<div align="center">
-
-| Domain | Tools |
+| Area | Tools and concepts |
 |---|---|
-| ML / DL | TensorFlow, PyTorch, scikit-learn, XGBoost |
-| Data | Pandas, NumPy, SQL, Feature Engineering |
-| Deployment | FastAPI, Docker, Kubernetes, CI/CD |
-| Cloud | AWS, GCP |
+| Data work | Python, Pandas, NumPy, data cleaning, exploratory analysis |
+| Databases | SQL, SQLite, relational data modeling |
+| Analytics | Financial metrics, performance and risk analysis, dashboards |
+| Visualization | Streamlit, Power BI, Matplotlib |
+| Cloud fundamentals | AWS Lambda, API Gateway, Amazon S3 |
+| Workflow | Git, GitHub, documentation, testing |
 
-</div>
+## 📌 What I Value
 
+- **Clarity:** make the problem, approach, and results easy to understand.
+- **Reproducibility:** document setup steps and keep workflows repeatable.
+- **Practical impact:** focus on projects that solve a real problem.
+- **Continuous learning:** improve through building, feedback, and iteration.
 
-<!-- 
-## 📊 Performance Dashboard
+## 🤝 Let's Connect
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rockstar1234jd&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=percentile" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockstar1234jd&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+I'm open to learning opportunities, thoughtful collaboration, and conversations around data, analytics, fintech, and software projects.
 
-<div align="center">
-  <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=rockstar1234jd&theme=tokyonight&hide_border=true&ring=C084FC&fire=F472B6&currStreakLabel=C084FC" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rockstar1234jd&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Momentum" alt="Contribution Graph" />
-</div> -->
-
-
-
-<!--
-## 🏆 Elite Badges
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rockstar1234jd&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=2&column=4" alt="GitHub Trophies" />
-</div> -->
-
----
-
-<!--
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rockstar1234jd/rockstar1234jd/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rockstar1234jd/rockstar1234jd/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/rockstar1234jd/rockstar1234jd/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div> -->
-
-## 🚀 Signature Projects
-
-<div align="center">
-
-| Project | Stack | Impact |
-|---|---|---|
-| 🧠 Project One | Python, PyTorch, FastAPI | Add one-line measurable result |
-| 📈 Project Two | SQL, Pandas, Dashboarding | Add one-line business/user outcome |
-| 🤖 Project Three | NLP, Transformers, Docker | Add one-line production value |
-
-</div>
-
----
-
-## 🎯 2026 Focus
-
-- ✅ Build and publish high-quality ML case studies
-- ✅ Improve model observability and drift monitoring workflows
-- ✅ Contribute to open-source tools in data and AI ecosystem
-
----
-
-## 🌐 Connect & Presence
-
-<div align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@domain.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://kaggle.com/your-kaggle"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://medium.com/@your-handle"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-</div>
+- **GitHub:** [@rockstar1234jd](https://github.com/rockstar1234jd)
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-  <h3>"From raw data to real-world impact."</h3>
+  <sub>Build consistently. Document clearly. Improve every iteration.</sub>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:6D28D9,40:A21CAF,75:DB2777,100:0EA5E9" />
